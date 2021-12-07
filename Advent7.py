@@ -16,12 +16,3 @@ part2_fuel = sum(fuel_usage(x, mean) for x in positions)
 
 print(part1_fuel)
 print(part2_fuel)
-
-
-
-
-
-
-
-
-
